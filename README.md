@@ -11,12 +11,12 @@ My name is Andrii and I am just a student from Zhytomyr Polytechnic State Univer
     <tr>
       <th>
         <a href="https://github.com/AndriiBabushko/AndriiBabushko">
-          <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AndriiBabushko&show_icons=true&theme=dracula&hide_border=true" alt="AndriiBabushko" style="max-width: 100%;">
+          <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AndriiBabushko&show_icons=true&theme=dark&hide_border=true" alt="AndriiBabushko" style="max-width: 100%;">
         </a>
       </th>
       <th>
         <a href="https://github.com/AndriiBabushko/AndriiBabushko">
-          <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndriiBabushko&layout=compact&theme=dracula&hide_border=true" alt="AndriiBabushko" style="max-width: 100%;">
+          <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndriiBabushko&layout=compact&theme=dark&hide_border=true" alt="AndriiBabushko" style="max-width: 100%;">
         </a>
       </th>
       </tr>
