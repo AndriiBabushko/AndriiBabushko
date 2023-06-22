@@ -4,7 +4,7 @@ My name is Andrii and I am just a student from Zhytomyr Polytechnic State Univer
 - 🔭 I’m currently working on Blog using Nest.JS, Next.JS, PostgreSQL
 - 🌱 I’m currently learning Nest.JS and Prisma for data storing and fetching 
 - 📫 How to reach me: <a href="https://t.me/AndriiRaccoon">Telegram</a>
-- ⚡ Fun fact: I live in the city that doesn't exits!
+- ⚡ Fun fact: I live in the city that doesn't exist!
 
 <table>
   <thead>
