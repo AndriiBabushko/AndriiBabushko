@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Andrii and I am just a student from Zhytomyr Polytechnic State University that studying software engineering and trying to do some own projects.
 
-- 🔭 I’m currently working on Blog using Next.JS, Chakra UI, Prisma, PostgreSQL
+- 🔭 I’m currently working on music web application using Next.JS, Chakra UI, Prisma ORM, PostgreSQL
 - 🌱 I’m currently learning Next.JS and Prisma for building UI and data storing!
 - 📫 How to reach me: <a href="https://t.me/AndriiRaccoon">Telegram</a>
 - ⚡ Fun fact: I live in the city that doesn't exist!
