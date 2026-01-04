@@ -8,17 +8,17 @@ My name is Andrii and I am just a former student from Zhytomyr Polytechnic State
 
 ---
 
-- 🔭 I’m low lever programming enthusiast who likes to play around with computers and stuff. 
-- 🌱 I am currently working on a traffic simulation project built with C++ and libsumo & intelligent house system project using embedded technologies.
-- 📫 How to reach me: <a href="https://t.me/AndriiRaccoon">Telegram</a>
-- ⚡ Fun fact: I live in the city that doesn't exist!
+- 🔭 Low-level programming enthusiast - I love digging into how computers actually work (memory, performance, networking, systems).
+- 🧰 Comfortable across the stack (TypeScript/Node.js/React), but I’m always leveling up my systems skills and performance mindset.
+- 📫 Reach me on Telegram: <a href="https://t.me/AndriiRaccoon">AndriiRaccoon</a>
+- 😄 Fun fact: My hometown where I come from "doesn't exist". 
 
 ---
 
 📊 Stats
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andriibabushko&theme=tokyonight)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andriibabushko&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
+![[GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andriibabushko&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andriibabushko&theme=tokyonight)
 
 <h3 align="center">
